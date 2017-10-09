@@ -22,3 +22,8 @@
 	path = OCA/project
 	url = git@github.com:OCA/project.git
 	branch = 10.0
+
+[submodule "kyco/python-count-lines-of-code"]
+	path = kyco/python-count-lines-of-code
+	url = git@github.com:kyco/python-count-lines-of-code.git
+	branch = master
